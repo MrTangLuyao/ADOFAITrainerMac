@@ -5,6 +5,8 @@
 
 <img src="docs/assets/hero.png" alt="冰与火之舞修改器 ADOFAI Trainer — 按 Insert 呼出的游戏内图形修改器，集成 Autoplay、隐藏 HUD、变速、放宽判定、无敌与解锁全部关卡" width="100%">
 
+<sub>▶ <a href="docs/assets/promo.mp4">观看 30 秒宣传片</a></sub>
+
 # 冰与火之舞修改器 · ADOFAI Trainer
 
 **按下 Insert，得到一次满分通关——这就是游戏自带的 Autoplay，只是被亮了出来。** 🎬

@@ -5,6 +5,8 @@
 
 <img src="docs/assets/hero.png" alt="ADOFAI Trainer — an in-game GUI trainer for A Dance of Fire and Ice with autoplay, hide-HUD, speed, widened judgement, no-fail and unlock-all, opened with Insert" width="100%">
 
+<sub>▶ <a href="docs/assets/promo.mp4">Watch the 30-second promo</a></sub>
+
 # ADOFAI Trainer · 冰与火之舞 修改器
 
 **Press Insert. Get a flawless run. It's the game's own autoplay, just exposed.** 🎬
