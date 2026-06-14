@@ -4,6 +4,7 @@ obj/
 *.user
 *.suo
 .vs/
+.DS_Store
 
 # Keep the prebuilt plugin in dist/ (do not ignore it)
 !dist/ADOFAITrainer.dll
